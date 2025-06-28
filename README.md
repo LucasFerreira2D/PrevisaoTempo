@@ -1,6 +1,6 @@
 # 🌤 Aplicativo de Previsão do Tempo e Fase Lunar
 
-Uma aplicação Android que exibe previsões do tempo, fase lunar e histórico local das últimas consultas. Desenvolvido em Java, com Material Components, Google Play Services Location, Room (SQLite) e Retrofit.
+Uma aplicação Android que exibe previsões do tempo, fase lunar e histórico local das últimas consultas. Desenvolvido em Java, com Material Components, Google Play Services Location, Room (SQLite) e Retrofit. Para entrega do Trabalho Final da máteria DESENVOLVIMENTO DE APLICAÇÕES MÓVEIS, PÓS LATO SENSU ESPECIALIZAÇÃO EM INTERNET DAS COISAS
 
 ---
 
@@ -38,7 +38,7 @@ Uma aplicação Android que exibe previsões do tempo, fase lunar e histórico l
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/trabalhofinal.git
+   git clone https://github.com/LucasFerreira2D/PrevisaoTempo.git
    ```
 2. Abra no Android Studio.
 3. Adicione sua chave da WeatherAPI em `WeatherRepository` (ou use mecanismo seguro).
