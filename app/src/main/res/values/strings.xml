@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Previsão do Tempo</string>
+    <string name="previsao_mensagem">Previsão será mostrada aqui</string>
+    <string name="fase_lua_titulo">🌙 Fase da Lua</string>
+    <string name="historico_label">Histórico:</string>
+    <string name="local_indisponivel_msg">Localização ainda indisponível.</string>
+    <string name="ative_localizacao_msg">Por favor, ative a localização para continuar.</string>
+    <string name="erro_prefix">Erro: %s</string>
+    <string name="permissao_negada_msg">Permissão de localização negada</string>
+    <string name="cidade_prefix">📍Cidade: %s</string>
+    <string name="temperatura_format">%s°C 🌡️</string>
+    <string name="city_label">Cidade: </string>
+    <string name="datahora_label">Data/Hora: </string>
+
+    <!-- fases da lua -->
+    <string name="moon_new">Lua Nova</string>
+    <string name="moon_waxing_crescent">Crescente Inicial</string>
+    <string name="moon_first_quarter">Quarto Crescente</string>
+    <string name="moon_waxing_gibbous">Crescente Gibosa</string>
+    <string name="moon_full">Lua Cheia</string>
+    <string name="moon_waning_gibbous">Minguante Gibosa</string>
+    <string name="moon_last_quarter">Quarto Minguante</string>
+    <string name="moon_waning_crescent">Minguante Final</string>
+    <string name="moon_unknown">Desconhecida</string>
+
+    <string name="sobre_title">Sobre</string>
+
+    <string name="sobre_descricao">
+    Este aplicativo mostra previsões do tempo e fase lunar usando dados do WeatherAPI.
+    Desenvolvido para o Trabalho Final.
+    </string>
+
+    <string name="faq_title">Dúvidas Frequentes</string>
+    <string name="faq_q1">Como atualizar a localização?</string>
+    <string name="faq_a1">Toque no ícone de atualizar para obter sua localização atual.</string>
+    <string name="faq_q2">Por que não recebo alertas de localização?</string>
+    <string name="faq_a2">Verifique se as permissões de localização estão habilitadas nas configurações do dispositivo.</string>
+
+</resources>

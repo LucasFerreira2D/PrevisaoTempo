@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/baseline_featured_play_list_24"
+        android:title="Sobre"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_faq"
+        android:icon="@drawable/baseline_contact_support_24"
+        android:title="Dúvidas"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/baseline_autorenew_24"
+        android:title="Refresh"
+        app:showAsAction="ifRoom" />
+
+</menu>

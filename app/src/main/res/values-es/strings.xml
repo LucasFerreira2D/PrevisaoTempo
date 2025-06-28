@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Previsão do Tempo</string>
+    <string name="previsao_mensagem">La previsión se mostrará aquí</string>
+    <string name="fase_lua_titulo">🌙 Fase de la Luna</string>
+    <string name="historico_label">Historial:</string>
+    <string name="local_indisponivel_msg">Ubicación aún no disponible.</string>
+    <string name="ative_localizacao_msg">Por favor, activa la ubicación para continuar.</string>
+    <string name="erro_prefix">Error: %s</string>
+    <string name="permissao_negada_msg">Permiso de ubicación denegado</string>
+    <string name="cidade_prefix">📍Ciudad: %s</string>
+    <string name="temperatura_format">%s°C 🌡️</string>
+    <string name="city_label">Ciudad: </string>
+    <string name="datahora_label">Fecha/Hora: </string>
+
+    <!-- fases de la luna -->
+    <string name="moon_new">Luna Nueva</string>
+    <string name="moon_waxing_crescent">Creciente</string>
+    <string name="moon_first_quarter">Primer Cuarto</string>
+    <string name="moon_waxing_gibbous">Gibosa Creciente</string>
+    <string name="moon_full">Luna Llena</string>
+    <string name="moon_waning_gibbous">Gibosa Menguante</string>
+    <string name="moon_last_quarter">Último Cuarto</string>
+    <string name="moon_waning_crescent">Menguante</string>
+    <string name="moon_unknown">Desconocida</string>
+
+    <string name="sobre_title">Acerca de</string>
+
+    <string name="sobre_descricao">
+        Esta aplicación muestra pronósticos del tiempo y fases lunares utilizando datos de WeatherAPI.
+        Desarrollado por para el Proyecto Final.
+    </string>
+
+    <string name="faq_title">Preguntas Frecuentes</string>
+    <string name="faq_q1">¿Cómo actualizar mi ubicación?</string>
+    <string name="faq_a1">Toque el icono de actualizar para obtener su ubicación actual.</string>
+    <string name="faq_q2">¿Por qué no recibo alertas de ubicación?</string>
+    <string name="faq_a2">Verifique que los permisos de ubicación estén habilitados en la configuración de su dispositivo.</string>
+
+</resources>
